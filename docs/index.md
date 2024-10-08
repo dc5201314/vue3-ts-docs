@@ -2,11 +2,11 @@
 layout: home
 
 hero:
-  name: "🚀 炫酷的前端工程化"
+  name: "🚀 前端工程化"
   text: "vue3 + TypeScript 学习文档"
   tagLine: "“兴趣是最好的老师,同时也是最好伙伴”"
   image:
-    src: /assets/log.png
+    src: http://myqqis.oss-cn-beijing.aliyuncs.com/Vue.png
     alt: 前端学习指南Logo
   actions:
     - theme: brand
@@ -18,17 +18,11 @@ hero:
 
 features:
   - icon: 🌐
-    title: HTML 基础
-    details: 学习如何使用 HTML 构建网页的基础结构。
+    title: 轻松入门
+    details: 从头开始学习vue3和Typescript。
   - icon: 🎨
-    title: CSS 基础
-    details: 从零开始，掌握 CSS，设计漂亮的网页样式。
-  - icon: 📜
-    title: JavaScript 基础
-    details: 掌握 JavaScript，让网页具备动态功能。
-  - icon: ⚛️
-    title: 前端框架
-    details: 了解并学习流行的前端框架vue3。
+    title: 最佳实践
+    details: 覆盖从组件设计到代码优化的实际开发经验。
   - icon: 🔧
     title: 工具链
     details: 掌握高效的开发工具和工作流。

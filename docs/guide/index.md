@@ -1,7 +1,8 @@
-# 教程
+# vue
 
-欢迎阅读教程部分，这里将帮助你快速入门前端开发。
+欢迎阅读 vue3 的基础学习这里会从头带你认识 vue3
 
 ## 目录
-- [概念](./concepts.md)
-- [安装](./installation.md)
+
+- [初识 vue](./concepts.md)
+- [vue3 的基础概念](./installation.md)

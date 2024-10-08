@@ -6,9 +6,9 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '教程', link: '/guide/' },
-      { text: '组件', link: '/components/' },
-      { text: 'API', link: '/api/' },
+      { text: 'vue3基础学习', link: '/guide/' },
+      { text: 'vue3的工程化学习', link: '/components/' },
+      { text: '完整项目实践', link: '/api/' },
       { text: '常见问题', link: '/faq/' },
     ],
     socialLinks:[
@@ -17,19 +17,19 @@ export default defineConfig({
     sidebar: {
       '/guide/': [
         {
-          text: '教程',
+          text: '初识',
           items: [
-            { text: '概念', link: '/guide/concepts' },
-            { text: '安装', link: '/guide/installation' }
+            { text: '初识vue.js', link: '/guide/concepts' },
+            { text: 'vue3的基础概念', link: '/guide/installation' }
           ]
         }
       ],
       '/components/': [
         {
-          text: '组件',
+          text: '工程化',
           items: [
-            { text: '按钮', link: '/components/button' },
-            { text: '表单', link: '/components/form' }
+            { text: '常见api', link: '/components/button' },
+            { text: '封装常见组件', link: '/components/form' }
           ]
         }
       ],

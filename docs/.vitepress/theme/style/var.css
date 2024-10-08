@@ -1,0 +1,30 @@
+:root {
+  /* 深色模式 */
+
+  /* 标题 */
+  --vp-home-hero-name-color: #fff; /* 白色文字，深色模式下 */
+  --vp-home-hero-name-background: linear-gradient(
+    135deg,
+    #7d9af3 18%,
+    #98c9f5 100%
+  );
+
+  /* 图标背景 */
+  --vp-home-hero-image-background-image: linear-gradient(
+    135deg,
+    #7d9af3 10%,
+    #98c9f5 100%
+  );
+  --vp-home-hero-image-filter: blur(150px);
+
+  /* brand按钮 */
+  --vp-button-brand-border: #7d9af3; /* 深色模式边框颜色 */
+  --vp-button-brand-text: #fff; /* 保持白色文字 */
+  --vp-button-brand-bg: #345678; /* 深色背景颜色 */
+
+  --vp-button-brand-hover-border: #98c9f5; /* 悬停边框颜色 */
+  --vp-button-brand-hover-text: #fff; /* 悬停的文字颜色 */
+  --vp-button-brand-hover-bg: #123456; /* 悬停时的背景颜色 */
+
+  --vp-button-brand-active-border: #f6ceec; /* 按下时的边框颜色 */
+}
