@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "炫酷前端学习指南",
-  description: "学习vue3项目",
+  title: "前端工程化",
+  description: "vue3 + Typescript 学习文档",
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
