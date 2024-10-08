@@ -10,7 +10,7 @@
 
 <!-- 后面可以加入 ?color=red 这样的参数来改变徽章颜色，默认为绿色 -->
 
-![GitHub License](https://img.shields.io/github/license/dc5201314/vue3-ts-docs)
+
 ![GitHub Stars](https://img.shields.io/github/stars/dc5201314/vue3-ts-docs)
 ![GitHub Forks](https://img.shields.io/github/forks/dc5201314/vue3-ts-docs)
 ![Build Status](https://img.shields.io/github/workflow/status/dc5201314/vue3-ts-docs/CI)
