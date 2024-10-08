@@ -11,6 +11,9 @@ export default defineConfig({
       { text: 'API', link: '/api/' },
       { text: '常见问题', link: '/faq/' },
     ],
+    socialLinks:[
+      {icon:'github',link:'https://github.com/dc5201314/vue3-ts-docs.git'}
+    ],
     sidebar: {
       '/guide/': [
         {
