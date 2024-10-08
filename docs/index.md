@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "🚀 炫酷的前端工程化"
   text: "vue3 + TypeScript 学习文档"
-  tagLine: "“兴趣是最好的老师”"
+  tagLine: "“兴趣是最好的老师,同时也是最好伙伴”"
   image:
     src: /assets/log.png
     alt: 前端学习指南Logo
