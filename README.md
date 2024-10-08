@@ -13,7 +13,7 @@
 
 ![GitHub Stars](https://img.shields.io/github/stars/dc5201314/vue3-ts-docs)
 ![GitHub Forks](https://img.shields.io/github/forks/dc5201314/vue3-ts-docs)
-![Build Status](https://img.shields.io/github/workflow/status/dc5201314/vue3-ts-docs/CI)
+
 ![NPM Version](https://img.shields.io/npm/v/vue)
 ![NPM Downloads](https://img.shields.io/npm/dw/vue)
 ![Maintenance](https://img.shields.io/maintenance/yes/2024)
