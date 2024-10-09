@@ -7,7 +7,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: 'vue3基础学习', link: '/guide/' },
-      { text: 'vue3的工程化学习', link: '/components/' },
+      { text: 'vue3的组件学习', link: '/components/' },
       { text: '完整项目实践', link: '/api/' },
       { text: '常见问题', link: '/faq/' },
     ],
@@ -19,8 +19,8 @@ export default defineConfig({
         {
           text: '初识',
           items: [
-            { text: '初识vue.js', link: '/guide/concepts' },
-            { text: 'vue3的基础概念', link: '/guide/installation' }
+            { text: 'vue3的核心概念', link: '/guide/concepts' },
+            { text: 'vue3的组件体系', link: '/guide/installation' }
           ]
         }
       ],
@@ -28,8 +28,9 @@ export default defineConfig({
         {
           text: '工程化',
           items: [
-            { text: '常见api', link: '/components/button' },
-            { text: '封装常见组件', link: '/components/form' }
+            { text: '什么是Api', link: '/components/button' },
+            { text: 'Element Plus入门', link: '/components/form'},
+            { text: 'VueUse的简单示例', link: '/components/VueUse' }
           ]
         }
       ],
@@ -37,7 +38,8 @@ export default defineConfig({
         {
           text: '常见问题',
           items: [
-            { text: '常见问题', link: '/faq/' },
+            { text: '常见问题', link: '/faq/question' },
+            { text: '好句分享', link: '/faq/sentence' },
           ]
         }
       ]
